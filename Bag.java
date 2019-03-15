@@ -32,21 +32,4 @@ public class Bag
 		b1.showBagsData();
 		
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
