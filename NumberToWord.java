@@ -1,5 +1,3 @@
-package cetpa;
-
 import java.util.Scanner;
 
 public class NumberToWord {
