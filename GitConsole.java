@@ -42,9 +42,7 @@ public class GitConsole {
 			String output = ">1 git checkout master  \n" + ">2 git rm -r " + file_name + "\n"
 					+ ">3 git commit -m \"unneeded file \" \n" + ">4 git push origin master";
 			JOptionPane.showMessageDialog(null, output);
-		}
-
-		else if (i == 6) {
+		} else if (i == 6) {
 			System.exit(0);
 		} else {
 			System.out.println("Invalid selection !!! ");
