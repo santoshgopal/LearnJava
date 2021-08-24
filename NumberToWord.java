@@ -46,8 +46,8 @@ public class NumberToWord {
 		} 
 		else {
 			if (n >= 100000001) {
-				System.out.println("This is too much to handle.");
-				System.out.println("I am sorry I can not do this for a kid like you.");
+				System.out.println("This is too much to handle !");
+				System.out.println("This is Beyond Science !");
 			} else {
 				NumberToWord aw = new NumberToWord();
 				aw.setOfArray((n / 1000000000), " Hundred");
